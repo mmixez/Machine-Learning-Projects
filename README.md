@@ -9,3 +9,5 @@
 #MNIST Model - Classifying Handwritten Digits
 
 #CNN Model - Classifying Flower Images
+
+#Autoencoders - Fashion Images
